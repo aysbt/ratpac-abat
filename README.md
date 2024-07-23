@@ -8,8 +8,8 @@ This repository contains the RAT-PAC simulation framework for the 1002 Tubitak p
   - **PMTINFO.ratdb**: File for the PMT position of the detector.
   - **Watchman.geo**: Detector geometric file.
 - **mac/**: Contains macros to run simulations.
-- **data/Scintillation**: Contains Scintillation related files.
-- **data/Cherenkov**: Contains Cherenkov related files.
+- Contains Scintillation related files.
+- Contains Cherenkov related files.
 
 ## Usage
 
