@@ -14,9 +14,11 @@ This repository contains the RAT-PAC simulation framework for the 1002 Tubitak p
 ## Usage
 
 To run the simulation, use the macros provided in the `mac` directory.
-
+## License
+This project is licensed under the MIT License - see the MIT-LICENSE.txt file for details.
 
 ## Acknowledgments
+
 
 This project was supported by the 1002 Tubitak project.
 
